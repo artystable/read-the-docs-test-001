@@ -1,0 +1,1 @@
+Test adding .rst file.
